@@ -7,7 +7,7 @@ import org.testng.annotations.DataProvider;
 @CucumberOptions(
         features = "src/test/java/features",
         glue = "org.example.stepDefinitions",
-        tags = "@OffersPage",
+        tags = "@PlaceOrder",
         plugin = {"html:target/cucumber.html",
                 "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
                 "rerun:target/failed_scenarios.txt"}
