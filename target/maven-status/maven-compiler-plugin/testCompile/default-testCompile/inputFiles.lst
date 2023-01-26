@@ -1,0 +1,13 @@
+/Users/israelchavez/Documents/Projects/FMSeleniumCucumber/src/test/java/org/example/utils/TestBase.java
+/Users/israelchavez/Documents/Projects/FMSeleniumCucumber/src/test/java/org/example/stepDefinitions/OfferPageStepDefinition.java
+/Users/israelchavez/Documents/Projects/FMSeleniumCucumber/src/test/java/org/example/cucumberOptions/FailedTestRunner.java
+/Users/israelchavez/Documents/Projects/FMSeleniumCucumber/src/test/java/org/example/cucumberOptions/TestNGTestRunner.java
+/Users/israelchavez/Documents/Projects/FMSeleniumCucumber/src/test/java/org/example/pageObjects/CheckoutPage.java
+/Users/israelchavez/Documents/Projects/FMSeleniumCucumber/src/test/java/org/example/pageObjects/LandingPage.java
+/Users/israelchavez/Documents/Projects/FMSeleniumCucumber/src/test/java/org/example/stepDefinitions/Hooks.java
+/Users/israelchavez/Documents/Projects/FMSeleniumCucumber/src/test/java/org/example/pageObjects/PageObjectManager.java
+/Users/israelchavez/Documents/Projects/FMSeleniumCucumber/src/test/java/org/example/utils/TestContextSetup.java
+/Users/israelchavez/Documents/Projects/FMSeleniumCucumber/src/test/java/org/example/utils/GenericUtils.java
+/Users/israelchavez/Documents/Projects/FMSeleniumCucumber/src/test/java/org/example/stepDefinitions/LandingPageStepDefinition.java
+/Users/israelchavez/Documents/Projects/FMSeleniumCucumber/src/test/java/org/example/stepDefinitions/CheckoutPageStepDefinition.java
+/Users/israelchavez/Documents/Projects/FMSeleniumCucumber/src/test/java/org/example/pageObjects/OffersPage.java
