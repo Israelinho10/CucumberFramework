@@ -25,7 +25,7 @@ public class TestBase {
         String browser = browser_maven!=null ? browser_maven : browser_properties;
 
         if(driver==null){
-            WebDriverManager.getInstance(browser).setup();
+            WebDriverManager.getInstance(browser.toLowerCase()).setup();
             if(browser.equalsIgnoreCase("CHROME")){
                 driver = new ChromeDriver();
             } else if(browser.equalsIgnoreCase("FIREFOX")){
