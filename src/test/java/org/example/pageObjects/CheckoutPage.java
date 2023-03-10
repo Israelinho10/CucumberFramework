@@ -21,6 +21,9 @@ public class CheckoutPage {
     }
 
     public void checkoutItems(){
+        //ADDED A COMMENT HERE
+        //ADDED A SECOND COMMENT
+        System.out.println("ERROR");
         driver.findElement(cartBag).click();
         driver.findElement(checkoutButton).click();
     }
